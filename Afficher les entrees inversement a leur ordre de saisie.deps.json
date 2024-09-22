@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Afficher les entrees inversement a leur ordre de saisie/1.0.0": {
+        "runtime": {
+          "Afficher les entrees inversement a leur ordre de saisie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Afficher les entrees inversement a leur ordre de saisie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
